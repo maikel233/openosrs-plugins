@@ -27,7 +27,7 @@ rootProject.name = "Paisti Plugins"
 
 include(":paistisuite")
 include(":webwalker")
-
+include(":PFighterAIO")
 include(":pgearsetup")
 include(":testscript")
 
